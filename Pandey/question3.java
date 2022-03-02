@@ -10,11 +10,7 @@ public class question3 {
             }
             else{
                 System.out.println("you are eligible to drive");
-            }
-        
-        
-       
-        
+            } 
     }
 
     
